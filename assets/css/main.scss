@@ -52,9 +52,9 @@
 
   /* 2. Controlamos desde dónde empieza y hasta dónde termina el texto */
   .page {
-    padding-left: 550px !important; /* Distancia desde la izquierda (separa la foto del texto) */
+    padding-left: 250px !important; /* Distancia desde la izquierda (separa la foto del texto) */
     padding-right: 40px !important; /* Margen derecho (evita que el texto pegue al borde de tu monitor) */
-    max-width: 100% !important; /* ROMPE el límite de ancho que trae la plantilla */
+    max-width: 300% !important; /* ROMPE el límite de ancho que trae la plantilla */
   }
 
   /* 3. Nos aseguramos de que el contenido interno se expanda por completo */
