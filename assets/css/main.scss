@@ -47,21 +47,21 @@
 @media screen and (min-width: 1024px) {
   /* 1. Ancho del panel izquierdo (donde está tu foto) */
   .sidebar {
-    width: 510px !important; 
+    width: 410px !important; 
   }
 
   /* 2. Controlamos desde dónde empieza y hasta dónde termina el texto */
   .page {
-    padding-left: 250px !important; /* Distancia desde la izquierda (separa la foto del texto) */
-    padding-right: 40px !important; /* Margen derecho (evita que el texto pegue al borde de tu monitor) */
-    max-width: 300% !important; /* ROMPE el límite de ancho que trae la plantilla */
+    padding-left: 150px !important; /* Distancia desde la izquierda (separa la foto del texto) */
+    padding-right: 10px !important; /* Margen derecho (evita que el texto pegue al borde de tu monitor) */
+    max-width: 100% !important; /* ROMPE el límite de ancho que trae la plantilla */
   }
 
   /* 3. Nos aseguramos de que el contenido interno se expanda por completo */
   .page__content {
     margin-left: 0 !important;
-    width: 100% !important;
-    max-width: 100% !important; 
+    width: 200% !important;
+    max-width: 200% !important; 
   }
 }
 
