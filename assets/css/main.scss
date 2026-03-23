@@ -69,3 +69,6 @@
 .page__content p {
   text-align: justify;
 }
+
+/* Ocultar el contenedor del pie de página por completo */
+.page__footer { display: none !important; }
