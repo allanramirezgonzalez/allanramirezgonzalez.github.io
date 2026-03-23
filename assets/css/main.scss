@@ -53,7 +53,7 @@
 
   /* 2. Recorrer el contenido principal a la derecha y crear un margen más amplio */
   .page__content {
-    margin-left: 380px !important; /* el 'recorrido' es de 40px */
+    margin-left: 180px !important; /* el 'recorrido' es de 40px */
     width: calc(100% - 380px) !important;
   }
 }
