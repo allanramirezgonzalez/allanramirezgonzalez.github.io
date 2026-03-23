@@ -7,9 +7,9 @@ redirect_from:
   - /about.html
 ---
 
-Economist, i did my bachelor´s degree at the Faculty of Economics of the National Autonomous University of Mexico (UNAM). Currently, I work as a Researcher Jr at the University Program of Development Studies (PUED) and Research Assistant at the Postgraduate Unit of Economics at UNAM. Also at the Faculty of Economics I serve as a Teaching Assistant for the Econometrics I and II courses, mainly leading the R programming labs. 
+Economist, bachelor´s degree from the Faculty of Economics of the National Autonomous University of Mexico (UNAM). 
 
-Research summary:
+Currently, I work as a Researcher Jr at the University Program of Development Studies (PUED) and Research Assistant at the Postgraduate Unit of Economics at UNAM. Also at the Faculty of Economics I serve as a Teaching Assistant for the Econometrics I and II courses, mainly leading the R programming labs. 
 
 At the Postgraduate Unit of Economics, i work with Dr. Arturo Huerta González. My research lies at the intersection of heterodox economics, monetary and fiscal policy oriented to growth and economic development. I have a strong interest in Modern Monetary Theory (MMT) and Post-Keynesian economics, and their application to public policy development aimed at addressing poverty and inequality.
 
