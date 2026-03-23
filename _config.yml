@@ -8,7 +8,7 @@
 
 # Basic Site Settings
 locale                   : "en-US"
-site_theme               : "air" # The available themes options are "default", "air", "sunrise", "mint", "dirt" and "contrast"
+site_theme               : "sunrise" # The available themes options are "default", "air", "sunrise", "mint", "dirt" and "contrast"
 title                    : "Allan Francisco Ramirez Gonzalez"
 title_separator          : "-"
 name                     : &name "Allan Francisco Ramirez Gonzalez"
@@ -25,8 +25,8 @@ author:
   # Biographic information
   avatar           : "profile.png"
   name             : "Allan Francisco Ramirez Gonzalez"
-  pronouns         : "he/him"  
-  bio              : "Economist from UNAM. Research Assistant at PUED. Focused on heterodox economics, data science applied to socioeconomic research, and environmental sustainability."
+  pronouns         : #"he/him"  
+  bio              : "Economist from UNAM. Research Assistant at PUED. Focused on data driven decisions and data science applied to socioeconomic research, and environmental sustainability."
   location         : "Mexico City, Mexico"
   employer         : "National Autonomous University of Mexico (UNAM)"
   uri              : # URL
