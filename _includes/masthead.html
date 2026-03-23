@@ -4,10 +4,11 @@
     <div class="masthead__menu">
       <nav id="site-nav" class="greedy-nav">
         <button><span class="navicon"></span></button>
-        <ul class="visible-links">
+        <ul class="visible-links" style="width: 100%; display: flex; align-items: center;">
           <li class="masthead__menu-item masthead__menu-item--lg persist {% if page.url == '/' or page.url == '/index.html' %}selected{% endif %}">
             <a href="{{ base_path }}/">{{ site.title }}</a>
           </li>
+          
           {% for link in site.data.navigation.main %}
             {% if link.url contains 'http' %}
               {% assign domain = '' %}
@@ -18,22 +19,25 @@
               <a href="{{ domain }}{{ link.url }}">{{ link.title }}</a>
             </li>
           {% endfor %}
-          <li id="theme-toggle" class="masthead__menu-item persist tail">
+
+          <li class="masthead__menu-item" style="margin-left: auto; display: flex; align-items: center;">
+            <div class="gtranslate_wrapper"></div>
+            <script>
+              window.gtranslateSettings = {
+                "default_language":"en",
+                "languages":["en","es"],
+                "wrapper_selector":".gtranslate_wrapper",
+                "flag_size":16
+              }
+            </script>
+            <script src="https://cdn.gtranslate.net/widgets/latest/dropdown.js" defer></script>
+          </li>
+
+          <li id="theme-toggle" class="masthead__menu-item persist tail" style="margin-left: 15px;">
             <a role="button" aria-labelledby="theme-icon"><i id="theme-icon" class="fa-solid fa-sun" aria-hidden="true" title="toggle theme"></i></a>
           </li>
+
         </ul>
-       <li class="masthead__menu-item" style="display: flex; align-items: right; padding-right: 15px;">
-          <div class="gtranslate_wrapper"></div>
-          <script>
-            window.gtranslateSettings = {
-              "default_language":"en",
-              "languages":["en","es"],
-              "wrapper_selector":".gtranslate_wrapper",
-              "flag_size":16
-            }
-          </script>
-          <script src="https://cdn.gtranslate.net/widgets/latest/dropdown.js" defer></script>
-        </li>
         <ul class="hidden-links hidden"></ul>
       </nav>
     </div>
