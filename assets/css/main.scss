@@ -72,3 +72,13 @@
 
 /* Ocultar el contenedor del pie de página por completo */
 .page__footer { display: none !important; }
+
+
+/* --- Ocultar el banner del pie de página por completo --- */
+.page__footer {
+  display: none !important;
+  visibility: hidden !important;
+  height: 0 !important;
+  margin: 0 !important;
+  padding: 0 !important;
+}
