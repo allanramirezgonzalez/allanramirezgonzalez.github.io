@@ -42,27 +42,30 @@
     "vendor/font-awesome/brands"
 ;
 
-/* --- Ajustes de Espaciado y Justificación --- */
+/* --- Ajustes de Espaciado, Ancho y Justificación --- */
 
 @media screen and (min-width: 1024px) {
-  /* 1. Ancho del panel izquierdo (donde está tu foto y datos) */
+  /* 1. Ancho del panel izquierdo (donde está tu foto) */
   .sidebar {
-    width: 510px !important; /* <-- CAMBIA ESTE NÚMERO para hacer más ancha o angosta tu barra lateral */
+    width: 510px !important; 
   }
 
-  /* 2. Distancia a la que empieza el texto principal (Título + Párrafos) */
+  /* 2. Controlamos desde dónde empieza y hasta dónde termina el texto */
   .page {
-    padding-left: 550px !important; /* <-- CAMBIA ESTE NÚMERO para acercar o alejar el texto. (Debe ser un poco mayor al número de arriba) */
+    padding-left: 550px !important; /* Distancia desde la izquierda (separa la foto del texto) */
+    padding-right: 40px !important; /* Margen derecho (evita que el texto pegue al borde de tu monitor) */
+    max-width: 100% !important; /* ROMPE el límite de ancho que trae la plantilla */
   }
 
-  /* Limpiamos el desfase entre el título y el texto */
+  /* 3. Nos aseguramos de que el contenido interno se expanda por completo */
   .page__content {
     margin-left: 0 !important;
     width: 100% !important;
+    max-width: 100% !important; 
   }
 }
 
-/* 3. Texto justificado (como en Word) */
+/* 4. Texto justificado (como en Word) */
 .page__content p {
   text-align: justify;
 }
