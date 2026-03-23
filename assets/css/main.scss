@@ -47,12 +47,12 @@
 @media screen and (min-width: 1024px) {
   /* 1. Ancho del panel izquierdo (donde está tu foto y datos) */
   .sidebar {
-    width: 310px !important; /* <-- CAMBIA ESTE NÚMERO para hacer más ancha o angosta tu barra lateral */
+    width: 510px !important; /* <-- CAMBIA ESTE NÚMERO para hacer más ancha o angosta tu barra lateral */
   }
 
   /* 2. Distancia a la que empieza el texto principal (Título + Párrafos) */
   .page {
-    padding-left: 350px !important; /* <-- CAMBIA ESTE NÚMERO para acercar o alejar el texto. (Debe ser un poco mayor al número de arriba) */
+    padding-left: 550px !important; /* <-- CAMBIA ESTE NÚMERO para acercar o alejar el texto. (Debe ser un poco mayor al número de arriba) */
   }
 
   /* Limpiamos el desfase entre el título y el texto */
