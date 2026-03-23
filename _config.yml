@@ -26,7 +26,7 @@ author:
   avatar           : "profile.png"
   name             : "Allan Francisco Ramirez Gonzalez"
   pronouns         : #"he/him"  
-  bio              : "Economist from UNAM. Research Jr at PUED. Focused on data-driven decision making and data science applied to socioeconomic research, and environmental sustainability."
+  bio              : "Economist from UNAM. Research Jr at the PUED. Focused on data-driven decision making and data science applied to socioeconomic research, and environmental sustainability."
   location         : "Mexico City, Mexico"
   employer         : "National Autonomous University of Mexico (UNAM)"
   uri              : # URL
@@ -66,7 +66,7 @@ author:
   keybase          : # Username
   instagram        : # Username
   lastfm           : # Username
-  linkedin         : # Username
+  linkedin         : "https://www.linkedin.com/in/allan-rmz-gonz/"
   mastodon         : # URL
   medium           : # URL
   pinterest        : # Username
