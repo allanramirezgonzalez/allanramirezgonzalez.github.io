@@ -43,21 +43,22 @@
 ;
 
 @media screen and (min-width: 1024px) {
-  /* 1. Ancho del panel izquierdo (donde está tu foto) */
+  /* 1. Ancho exacto del panel izquierdo */
   .sidebar {
-    width: 340px !important; 
+    width: 320px !important; 
   }
 
-  /* 2. Controlamos la posición y el ancho del texto */
+  /* 2. Empujamos el texto usando un margen izquierdo (Ancho del sidebar + 30px de espacio) */
   .page {
-    float: left !important; /* <--- LA MAGIA: Despega el texto del borde derecho */
-    width: calc(100% - 340px) !important; /* Ocupa exactamente el espacio sobrante */
-    padding-left: 40px !important; /* <-- ESTE ES TU MARGEN REAL ENTRE LA BARRA Y EL TEXTO */
-    padding-right: 40px !important; 
+    margin-left: 350px !important; /* distancia real. */
+    padding-left: 0 !important;
+    padding-right: 20px !important; 
+    width: auto !important;
     max-width: 100% !important; 
+    float: none !important;
   }
 
-  /* 3. Nos aseguramos de que el contenido interno se expanda por completo */
+  /* 3. Expansión del contenido interno */
   .page__content {
     margin-left: 0 !important;
     width: 100% !important;
