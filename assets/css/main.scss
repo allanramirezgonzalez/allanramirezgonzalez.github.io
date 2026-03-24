@@ -48,11 +48,13 @@
     width: 340px !important; 
   }
 
-  /* 2. Controlamos desde dónde empieza y hasta dónde termina el texto */
-   .page {
-    padding-left: 200px !important; /* Reduce este número para acercarlo a la izquierda */
+  /* 2. Controlamos la posición y el ancho del texto */
+  .page {
+    float: left !important; /* <--- LA MAGIA: Despega el texto del borde derecho */
+    width: calc(100% - 340px) !important; /* Ocupa exactamente el espacio sobrante */
+    padding-left: 40px !important; /* <-- ESTE ES TU MARGEN REAL ENTRE LA BARRA Y EL TEXTO */
     padding-right: 40px !important; 
-    max-width: 200% !important; 
+    max-width: 100% !important; 
   }
 
   /* 3. Nos aseguramos de que el contenido interno se expanda por completo */
@@ -62,7 +64,6 @@
     max-width: 100% !important; 
   }
 }
-
 /* 4. Texto justificado (como en Word) */
 .page__content p {
   text-align: justify;
