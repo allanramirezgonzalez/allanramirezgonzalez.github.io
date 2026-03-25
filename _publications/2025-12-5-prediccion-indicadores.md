@@ -1,6 +1,7 @@
 ---
 title: "Avances en la predicción de indicadores socioeconómicos mediante imágenes satelitales"
 collection: publications
+category: manuscripts
 permalink: /publication/2026-03-23-prediccion-indicadores
 excerpt: 'Capítulo sobre el uso de imágenes satelitales como herramienta innovadora para la predicción de pobreza y variables socioeconómicas.'
 date: 2025-12-08
