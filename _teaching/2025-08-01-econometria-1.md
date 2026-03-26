@@ -16,4 +16,4 @@ Como profesor adjunto en este curso, mis responsabilidades principales se centra
 * Análisis de series económicas y visualización de datos en R Studio.
 
 **Material del curso:**
-* [Descargar Temario del Curso (/files/temario-eco1.pdf)](/files/temario-eco1.pdf)
+* [Descargar Temario del Curso](/files/Temario-Econometria-I-2025-1.pdf)
