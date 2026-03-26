@@ -16,5 +16,5 @@ En este curso avanzado, mi enfoque pedagógico se dirigió hacia la aplicación 
 * Aplicación de técnicas de *Machine Learning* a las ciencias económicas, con especial énfasis en la toma de decisiones basadas en datos.
 
 **Material del curso:**
-* [Descargar Temario del Curso 2025-2)](files/Temario-Econometria-II-2025-2.pdf)
-* [Descargar Temario del Curso 2026-2)](files/Temario-Econometria-II-2026-2.pdf)
+* [Descargar Temario del Curso 2025-2)](/files/Temario-Econometria-II-2025-2.pdf)
+* [Descargar Temario del Curso 2026-2)](/files/Temario-Econometria-II-2026-2.pdf)
