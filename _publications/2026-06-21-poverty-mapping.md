@@ -11,4 +11,4 @@ citation: 'Ramirez-Gonzalez, A. F., Zea-Ortiz, M., Vera-Alfaro, P., & Vargas-Cha
 ---
 Abstract: This chapter evaluates the integration of daytime satellite imagery and nighttime light data (VIIRS) to estimate and map poverty in Mexico. Operating at the intersection of data science and remote sensing, this research explores methodological alternatives for measuring socioeconomic indicators and monitoring the Sustainable Development Goals (SDGs) in areas with limited statistical coverage.
 
-Published paper with DOI will be ready at May 21st, 2026
+The published paper with its DOI will be available on May 21st, 2026
