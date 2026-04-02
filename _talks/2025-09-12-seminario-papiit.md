@@ -1,14 +1,14 @@
 ---
-title: "Evaluación de la pobreza mediante modelos de aprendizaje de máquina, aprendizaje profundo e imágenes satelitales"
+title: "Poverty Assessment Using Machine Learning, Deep Learning, and Satellite Imagery"
 collection: talks
-type: "Ponencia"
+type: "Oral presentation"
 permalink: /talks/2025-09-12-seminario-papiit
-venue: "Seminario de Avances de Investigación PAPIIT 303824: Estimación de la pobreza y desarrollo económico a nivel subnacional usando datos satelitales nocturnos"
+venue: "PAPIIT 303824 Research Progress Seminar: Estimation of poverty and economic development at the subnational level using nighttime satellite data"
 date: 2025-09-12
-location: "Ciudad de México, México"
+location: "Mexico City, Mexico"
 ---
 
-Participación como ponente en el Seminario de Avances de Investigación del proyecto PAPIIT, presentando los avances sobre la estimación de pobreza multidimensional mediante el uso de algoritmos de machine learning, deep learning y datos de percepción remota.
+Participation as a speaker at the Research Progress Seminar for the PAPIIT project, presenting advancements in the estimation of multidimensional poverty using machine learning algorithms, deep learning, and remote sensing data.
 
-* [Publicación con fotos en LinkedIn](https://www.linkedin.com/posts/allan-rmz-gonz_esta-semana-concluimos-una-fase-de-proyecto-ugcPost-7373006295911542784-MeIp?utm_source=share&utm_medium=member_desktop&rcm=ACoAAFJLJgkBdW4t1uyQ3BUskAJWChGsAUZi1Rs)
-* [Carta oficial de agradecimiento y participación](/files/carta-papiit-2025.pdf)
+* [LinkedIn post with photos](https://www.linkedin.com/posts/allan-rmz-gonz_esta-semana-concluimos-una-fase-de-proyecto-ugcPost-7373006295911542784-MeIp?utm_source=share&utm_medium=member_desktop&rcm=ACoAAFJLJgkBdW4t1uyQ3BUskAJWChGsAUZi1Rs)
+* [Official letter of appreciation and participation](/files/carta-papiit-2025.pdf)
