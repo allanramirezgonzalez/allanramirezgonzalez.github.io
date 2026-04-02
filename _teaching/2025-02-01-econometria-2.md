@@ -1,20 +1,20 @@
 ---
-title: "Econometría II"
+title: "Econometrics II"
 collection: teaching
-type: "Curso de Licenciatura (Profesor Adjunto)"
+type: "Undergraduate Course (Teaching Assistant)"
 permalink: /teaching/2025-02-01-econometria-2
-venue: "Facultad de Economía, Universidad Nacional Autónoma de México (UNAM)"
+venue: "Faculty of Economics, National Autonomous University of Mexico (UNAM)"
 date: 2025-02-01
-location: "Ciudad de México, México"
+location: "Mexico City, Mexico"
 ---
 
-**Semestres:** 2025-2 y 2026-2
+**Semesters:** 2025-2 and 2026-2
 
-En este curso avanzado, mi enfoque pedagógico se dirigió hacia la aplicación práctica y el uso de herramientas computacionales modernas para la economía:
+In this advanced course, my pedagogical approach focused on practical application and the use of modern computational tools for economics:
 
-* Diseño y dirección de laboratorios de econometría aplicada en R Studio, enfocándose en análisis de regresión, diagnósticos y gestión de datos.
-* Aplicación de técnicas de *Machine Learning* a las ciencias económicas, con especial énfasis en la toma de decisiones basadas en datos.
+* Designed and led applied econometrics laboratories in R Studio, focusing on regression analysis, diagnostics, and data management.
+* Applied *Machine Learning* techniques to economic sciences, with a special emphasis on data-driven decision-making.
 
-**Material del curso:**
-* [Descargar Temario del Curso 2025-2)](/files/Temario-Econometria-II-2025-2.pdf)
-* [Descargar Temario del Curso 2026-2)](/files/Temario-Econometria-II-2026-2.pdf)
+**Course Material:**
+* [Download Course Syllabus 2025-2](/files/Temario-Econometria-II-2025-2.pdf)
+* [Download Course Syllabus 2026-2](/files/Temario-Econometria-II-2026-2.pdf)
