@@ -1,13 +1,13 @@
 ---
-title: "Seminario de Avances de Investigación PAPIIT Estimación de la pobreza y desarrollo económico a nivel subnacional usando datos satelitales nocturnos. "
+title: "PAPIIT Research Progress Seminar: Estimation of poverty and economic development at the subnational level using nighttime satellite data"
 date: 2025-09-13
 permalink: /posts/2025/09/post-papiit/
 tags:
   - Deep Learning
-  - Pobreza Multidimensional
-  - Sensado Remoto
+  - Multidimensional Poverty
+  - Remote Sensing
 ---
 
-Les comparto mi publicación reciente en LinkedIn sobre mi participación como ponente en el Seminario de Avances de Investigación PAPIIT en la UNAM.
+I am sharing my recent LinkedIn post regarding my participation as a speaker at the PAPIIT Research Progress Seminar at UNAM.
 
 <iframe src="https://www.linkedin.com/embed/feed/update/urn:li:ugcPost:7373006295911542784?collapsed=1" height="628" width="504" frameborder="0" allowfullscreen="" title="Publicación integrada"></iframe>
