@@ -17,7 +17,7 @@ redirect_from:
 * **[Academic CV (Resume)](/files/Cv_academico_ingles_abril_2026.pdf)**
 * **[CV (Full Trajectory)](/files/Cv_largo_ingles_abril_2026.pdf)**
 
----
+--- 
 
 ## Educación / Education
 * **Licenciatura en Economía / B.A. in Economics**
