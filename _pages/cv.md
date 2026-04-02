@@ -10,12 +10,12 @@ redirect_from:
 {% include base_path %}
 
 ### 🇲🇽 Versión en Español
-* **[CV Académico (Resumen)](/files/Cv_academico_esp_marzo_2026.pdf)**
-* **[CV Largo (Trayectoria Completa)](/files/Cv_largo_esp_marzo_2026.pdf)**
+* **[CV Académico (Resumen)](/files/Cv_academico_esp_abril_2026.pdf)**
+* **[CV Largo (Trayectoria Completa)](/files/Cv_largo_esp_abril_2026.pdf)**
 
 ### 🇺🇸 English Version
-* **[Academic CV (Resume)](/files/Cv_academico_ingles_marzo_2026.pdf)**
-* **[CV (Full Trajectory)](/files/Cv_largo_ingles_marzo_2026.pdf)**
+* **[Academic CV (Resume)](/files/Cv_academico_ingles_abril_2026.pdf)**
+* **[CV (Full Trajectory)](/files/Cv_largo_ingles_abril_2026.pdf)**
 
 ---
 
