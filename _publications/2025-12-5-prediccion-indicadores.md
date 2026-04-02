@@ -12,4 +12,4 @@ citation: 'Ramirez-Gonzalez, A. F., Vargas-Chanes, D., Flores-Sol, E. D., Najera
 
 Abstract: This study expands research on predicting socioeconomic indicators using remote sensing by introducing a model based on the EfficientNetB7 architecture to estimate multidimensional poverty and labor informality at the municipal level. The models were adapted to process seven-band multispectral satellite imagery (daytime and nighttime), trained at the Basic Geostatistical Area (AGEB) level, and subsequently aggregated to municipal and state scales. The performance of the proposed models was compared with models trained on EfficientNetB3, evaluating two processing strategies: direct band usage and median logarithmic transformation. Results demonstrate that the EfficientNetB7 architecture offers improvements in predictive capacity, reaching a coefficient of determination (R²) of up to 0.83 for poverty and 0.82 for informality at the municipal level, exceeding 0.97 at the state level.
 
-*Paper in spanish
+-Paper in spanish
