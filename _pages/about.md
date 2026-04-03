@@ -7,7 +7,8 @@ redirect_from:
   - /about.html
 ---
 
-Hello, my name is Allan. I am an Economist with a bachelor's degree from the Faculty of Economics at the National Autonomous University of Mexico (UNAM).
+Hi!, welcome to my personal website.
+My name is Allan. I am an Economist with a bachelor's degree from the Faculty of Economics at the National Autonomous University of Mexico (UNAM).
 
 Currently, I work as a Junior Researcher at the University Program of Development Studies (PUED) and as a Research Assistant at the Postgraduate Unit of Economics at UNAM. Additionally, at the Faculty of Economics, I serve as a Teaching Assistant for Econometrics I and II, where I primarily lead the R programming laboratories.
 
