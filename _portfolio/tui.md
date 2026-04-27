@@ -97,12 +97,12 @@ gallery:
 
 Over the past years, I have actively participated in the **Transporte Universitario Ixtapaluquense (TUI)** and served as a coordinator for university outreach programs, including collaborative efforts between students and the municipal government.
 
-For official records and more context on the impact of this program, here are just a few selected links to the public evidence of our institutional work:
+For official records and more context on the impact of this program, here are a few selected links to the public evidence of our institutional work:
 
-* [Revisando documentos logísticos (Feb 27, 2024)](https://www.facebook.com/photo/?fbid=424711866899017&set=pcb.424711940232343){:target="_blank"}
-* [Cierre exitoso del primer ciclo TUI](https://www.facebook.com/photo/?fbid=3405344059786708&set=pcb.3405344126453368){:target="_blank"}
-* [Inicio de recepción de documentos](https://www.facebook.com/photo?fbid=161156946450087&set=pcb.161157093116739){:target="_blank"}
-* [Reunión de coordinación del segundo ciclo](https://www.facebook.com/photo/?fbid=3444522299202217&set=a.1381782652142869){:target="_blank"}
+* [Reviewing logistical documents](https://www.facebook.com/photo/?fbid=424711866899017&set=pcb.424711940232343){:target="_blank"}
+* [Successful closure of the first cycle](https://www.facebook.com/photo/?fbid=3405344059786708&set=pcb.3405344126453368){:target="_blank"}
+* [Initial document reception](https://www.facebook.com/photo?fbid=161156946450087&set=pcb.161157093116739){:target="_blank"}
+* [Second cycle coordination meeting](https://www.facebook.com/photo/?fbid=3444522299202217&set=a.1381782652142869){:target="_blank"}
 
 Below I share some of the many photos of my participation alongside an incredible team and friends:
 
