@@ -1,5 +1,5 @@
 ---
-title: "Voluntariado Programa de Transporte Universitario Ixtapaluca"
+title: "Volunteering in Programa de Transporte Universitario Ixtapaluca"
 excerpt: "Coordinación y participación en el programa de transporte y vinculación comunitaria de la UNAM."
 header:
   teaser: /images/23_11_2022_rumbo_a_Ixtapaluca.jpg
