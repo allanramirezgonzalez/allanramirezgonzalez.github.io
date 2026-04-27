@@ -1,12 +1,12 @@
 ---
 title: "volunteering in Transporte Universitario Ixtapaluca (TUI)"
-excerpt: "Coordinación y participación en el programa de transporte y vinculación comunitaria de la UNAM."
+excerpt: "Coordinación y participación en el programa de transporte y vinculación comunitaria."
 header:
-  teaser: /images/23_11_2022_rumbo_a_Ixtapaluca.jpg
+  teaser: 23_11_2022_rumbo_a_Ixtapaluca.jpg
 gallery:
   - url: 23_11_2022_rumbo_a_Ixtapaluca.jpg
     image_path: 23_11_2022_rumbo_a_Ixtapaluca.jpg
-    alt: "Rumbo a Ixtapaluca - Transporte Universitario"
+    alt: "Rumbo a Ixtapaluca - Transporte Universitario TUI"
   - url: 06082024_salida_luciernagas_1.jpg
     image_path: 06082024_salida_luciernagas_1.jpg
     alt: "Salida comunitaria"
@@ -53,36 +53,40 @@ gallery:
     image_path: TUI_reunion_segundo_ciclo.jpg
     alt: "Reunión de trabajo institucional (TUI)"
 ---
+
 {% comment %}
 {% endcomment %}
 <style>
-  /* Fuerza a la galería a usar una cuadrícula densa sin huecos */
+  /* Fuerza el contenedor a usar flexbox justified */
   .gallery {
-    display: grid !important;
-    grid-template-columns: repeat(3, 1fr) !important; /* 3 columnas hace las fotos más grandes */
-    gap: 3px !important; /* Reduce el espacio entre fotos al mínimo */
-    margin-top: 30px !important;
+    display: flex !important;
+    flex-wrap: wrap !important;
+    gap: 2px !important; /* Espacio mínimo de 2px entre fotos */
     padding: 0 !important;
+    margin: 30px 0 !important;
   }
   
-  /* Elimina márgenes antiguos de la plantilla */
+  /* Elimina estilos antiguos del tema que separan las fotos */
   .gallery-item {
     margin: 0 !important;
     padding: 0 !important;
+    border: none !important;
+    flex-grow: 1 !important; /* Clave del collage: las fotos crecen para llenar la fila */
   }
   
-  /* Fuerza a las imágenes a llenar su columna y tener altura uniforme */
+  /* Fuerza a las imágenes a estirarse, pegarse y tener altura uniforme por fila */
   .gallery img {
-    width: 100% !important;
-    height: 250px !important; /* Ajusta este valor si quieres fotos más altas/bajas */
-    object-fit: cover !important; /* Mantiene la proporción sin estirarse */
-    border-radius: 2px !important;
+    width: auto !important; /* Importante para que Flexbox calcule */
+    max-width: 100% !important;
+    height: 280px !important; /* Altura uniforme de las filas. Ajústalo si las quieres más grandes/pequeñas */
+    object-fit: cover !important; /* Recorta automáticamente para rellenar sin deformar */
+    border-radius: 0 !important; /* Sin bordes redondeados para que se peguen */
   }
   
-  /* Collage adaptable para celulares: 2 columnas */
+  /* Ajuste para pantallas pequeñas */
   @media (max-width: 600px) {
-    .gallery {
-      grid-template-columns: repeat(2, 1fr) !important;
+    .gallery img {
+      height: 180px !important;
     }
   }
 </style>
@@ -93,4 +97,4 @@ These roles have allowed me to foster constructive dialogue, ensure due process,
 
 Below is a visual registry of these activities, reflecting the teamwork, fieldwork, and institutional coordination involved:
 
-{% include gallery caption="Galería de mi participación institucional y labor comunitaria en Ixtapaluca." %}
+{% include gallery caption="Galería: Voluntariado, Trabajo Institucional TUI y Coordinación Comunitaria en Ixtapaluca." %}
