@@ -14,12 +14,12 @@ main:
     url: /talks/
   - title: "Teaching"
     url: /teaching/
-  - title: "CV"
-    url: /cv/
   - title: "Blog Posts"
     url: /year-archive/
   - title: "Gallery"
     url: /portfolio/
+  - title: "CV"
+    url: /cv/
   # - title: "CV"
   #   url: /cv-json/
     
