@@ -10,18 +10,12 @@ gallery:
   - url: 2023-Allan-evaluando-2-2.jpg
     image_path: 2023-Allan-evaluando-2-2.jpg
     alt: "Evaluation process"
-  - url: 2023-revista-1.jpg
-    image_path: 2023-revista-1.jpg
-    alt: "Project fair materials"
   - url: 2023-revista-Allan-evaluando-1.jpg
     image_path: 2023-revista-Allan-evaluando-1.jpg
     alt: "Magazine feature evaluating"
   - url: 2024-evaluando-2.jpg
     image_path: 2024-evaluando-2.jpg
     alt: "2024 Evaluation session"
-  - url: 2024-evaluando-1.jpg
-    image_path: 2024-evaluando-1.jpg
-    alt: "2024 Evaluation session 2"
   - url: Evaluando-2023.jpg
     image_path: Evaluando-2023.jpg
     alt: "Jury activities 2023"
@@ -34,6 +28,9 @@ gallery:
   - url: evaluando-4-2023.jpg
     image_path: evaluando-4-2023.jpg
     alt: "Jury activities 2023 - 4"
+  - url: 2023-revista-1.jpg
+    image_path: 2023-revista-1.jpg
+    alt: "Project fair materials"
   - url: Zoom-jueces.png
     image_path: Zoom-jueces.png
     alt: "Virtual jury meeting"
