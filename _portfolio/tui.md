@@ -96,6 +96,8 @@ gallery:
 <img src="/images/23_11_2022_rumbo_a_Ixtapaluca.jpg" alt="Portada Rumbo a Ixtapaluca" class="portada-galeria">
 
 
-Over the past years, I have actively participated in the **Transporte Universitario Ixtapaluquense (TUI)** and served as a coordinator for university outreach programs, including collaborative efforts between students and municipal governments.
+Over the past years, I have actively participated in the **Transporte Universitario Ixtapaluquense (TUI)** and served as a coordinator for university outreach programs, including collaborative efforts between students and the municipal goverment.
 
-{% include gallery caption="Galería: Voluntariado, Trabajo Institucional TUI y Coordinación Comunitaria en Ixtapaluca." %}
+Here i show some of the many photos of my participation, team and friends :D
+
+{% include gallery caption="Galería: Volunteering, Institutional Work at TUI and Community Coordination in Ixtapaluca." %}
