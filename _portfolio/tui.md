@@ -1,5 +1,5 @@
 ---
-title: "volunteering in Transporte Universitario Ixtapaluca (TUI)"
+title: "Volunteering in Transporte Universitario Ixtapaluca (TUI)"
 excerpt: "Coordinación y participación en el programa de transporte y vinculación comunitaria."
 header:
   teaser: 23_11_2022_rumbo_a_Ixtapaluca.jpg
