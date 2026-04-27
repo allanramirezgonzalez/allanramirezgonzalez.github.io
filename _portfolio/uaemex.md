@@ -1,0 +1,93 @@
+---
+title: "Jury Member at UAEMex Integrative Project Fairs"
+excerpt: "Evaluator for academic integrative projects at the Preparatoria Regional."
+header:
+  teaser: 2023-jueces-2.jpg
+gallery:
+  - url: 2023-Allan-evaluando-2.jpg
+    image_path: 2023-Allan-evaluando-2.jpg
+    alt: "Evaluating student projects"
+  - url: 2023-Allan-evaluando-2-2.jpg
+    image_path: 2023-Allan-evaluando-2-2.jpg
+    alt: "Evaluation process"
+  - url: 2023-revista-1.jpg
+    image_path: 2023-revista-1.jpg
+    alt: "Project fair materials"
+  - url: 2023-revista-Allan-evaluando-1.jpg
+    image_path: 2023-revista-Allan-evaluando-1.jpg
+    alt: "Magazine feature evaluating"
+  - url: 2024_evaluando_2.jpg
+    image_path: 2024_evaluando_2.jpg
+    alt: "2024 Evaluation session"
+  - url: 2024-evaluando-1.jpg
+    image_path: 2024-evaluando-1.jpg
+    alt: "2024 Evaluation session 2"
+  - url: Evaluando-2023.jpg
+    image_path: Evaluando-2023.jpg
+    alt: "Jury activities 2023"
+  - url: Evaluando-2-2023.jpg
+    image_path: Evaluando-2-2023.jpg
+    alt: "Jury activities 2023 - 2"
+  - url: Evaluando-3-2023.jpg
+    image_path: Evaluando-3-2023.jpg
+    alt: "Jury activities 2023 - 3"
+  - url: evaluando-4-2023.jpg
+    image_path: evaluando-4-2023.jpg
+    alt: "Jury activities 2023 - 4"
+  - url: Zoom-jueces.png
+    image_path: Zoom-jueces.png
+    alt: "Virtual jury meeting"
+---
+
+<style>
+  /* Diseño de la Portada Gigante */
+  .portada-galeria {
+    width: 100%;
+    height: 400px;
+    object-fit: cover;
+    border-radius: 8px;
+    margin-bottom: 25px;
+    box-shadow: 0 4px 8px rgba(0,0,0,0.1);
+  }
+
+  /* Forzamos imágenes mucho más GRANDES (Máximo 2 columnas) */
+  .gallery {
+    display: grid !important;
+    grid-template-columns: repeat(auto-fill, minmax(350px, 1fr)) !important; 
+    gap: 8px !important; 
+    margin-top: 30px !important;
+    padding: 0 !important;
+  }
+  
+  .gallery-item {
+    margin: 0 !important;
+    padding: 0 !important;
+    max-width: 100% !important; 
+    width: 100% !important;
+  }
+  
+  .gallery img {
+    width: 100% !important;
+    height: 320px !important; 
+    object-fit: cover !important; 
+    border-radius: 4px !important;
+  }
+
+  /* Ajuste para celulares (1 sola columna gigante) */
+  @media (max-width: 600px) {
+    .gallery {
+      grid-template-columns: 1fr !important;
+    }
+    .portada-galeria {
+      height: 250px;
+    }
+  }
+</style>
+
+<img src="/images/2023-jueces-2.jpg" alt="Jury Member Cover" class="portada-galeria">
+
+As part of my commitment to educational development, I have had the honor of participating as a jury member in the evaluation of integrative projects for the **Preparatoria Regional (UAEMex)**. These fairs are an excellent space to encourage critical thinking, methodological rigor, and the practical application of knowledge among high school students.
+
+Below is a visual record of my participation evaluating student proposals and collaborating with other academic judges:
+
+{% include gallery caption="Gallery: Evaluating academic projects at UAEMex." %}
