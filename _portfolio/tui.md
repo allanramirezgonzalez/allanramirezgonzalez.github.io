@@ -59,30 +59,48 @@ gallery:
     box-shadow: 0 4px 8px rgba(0,0,0,0.1);
   }
 
-  /* Forzamos imágenes mucho más GRANDES (Máximo 2 columnas) */
+  /* Cuadrícula de la galería */
   .gallery {
     display: grid !important;
-    grid-template-columns: repeat(auto-fill, minmax(350px, 1fr)) !important; /* Fuerza a que cada foto mida al menos 350px de ancho */
-    gap: 8px !important; 
+    grid-template-columns: repeat(auto-fill, minmax(350px, 1fr)) !important;
+    gap: 15px !important; /* Un poco más de espacio entre tarjetas */
     margin-top: 30px !important;
     padding: 0 !important;
   }
   
+  /* Convertimos cada foto en una "tarjeta" */
   .gallery-item {
     margin: 0 !important;
     padding: 0 !important;
-    max-width: 100% !important; /* Cancela el límite de la plantilla */
+    max-width: 100% !important;
     width: 100% !important;
+    display: flex;
+    flex-direction: column;
+    background-color: #f9f9f9; /* Fondo gris muy clarito para el texto */
+    border-radius: 6px;
+    box-shadow: 0 2px 4px rgba(0,0,0,0.05); /* Sombra sutil */
+    overflow: hidden;
   }
   
   .gallery img {
     width: 100% !important;
-    height: 320px !important; /* Fotos mucho más altas */
+    height: 320px !important;
     object-fit: cover !important; 
-    border-radius: 4px !important;
+    border-radius: 0 !important; /* Quitamos el borde para que se fusione con la tarjeta */
+    margin-bottom: 0 !important;
   }
 
-  /* Ajuste para celulares (1 sola columna gigante) */
+  /* Estilo del subtítulo (figcaption) */
+  .gallery-item figcaption {
+    padding: 12px 15px;
+    font-size: 0.85em;
+    color: #444;
+    text-align: center;
+    line-height: 1.4;
+    margin: 0;
+  }
+
+  /* Ajuste para celulares */
   @media (max-width: 600px) {
     .gallery {
       grid-template-columns: 1fr !important;
