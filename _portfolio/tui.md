@@ -107,3 +107,9 @@ For official records and more context on the impact of this program, here are a 
 Below I share some of the many photos of my participation alongside an incredible team and friends:
 
 {% include gallery caption="Gallery: Volunteering, Institutional Work at TUI and Community Coordination in Ixtapaluca." %}
+
+<br>
+<hr>
+<p style="font-size: 0.85em; color: #777; text-align: justify; margin-top: 15px;">
+  <em><strong>Privacy Disclaimer:</strong> Out of respect for personal privacy, faces in my private photographs have been blurred. However, faces in photographs that were previously published on public platforms (such as the official institutional pages of the Preparatoria and TUI) remain unblurred. If you appear in any of these images and feel uncomfortable or wish for your picture to be removed/blurred, please feel free to contact me, and I will promptly take it down.</em>
+</p>
