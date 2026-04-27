@@ -5,10 +5,44 @@ permalink: /portfolio/
 author_profile: true
 ---
 
-{% include base_path %}
+A continuación presento galerías visuales de mis principales proyectos de investigación, voluntariado y labor institucional.
 
+<style>
+  /* Estilos básicos para la galería tipo muro */
+  .portfolio-feed-item {
+    margin-bottom: 80px;
+    border-bottom: 2px solid #f2f2f2;
+    padding-bottom: 40px;
+  }
+  .portfolio-feed-gallery {
+    display: grid;
+    grid-template-columns: repeat(auto-fill, minmax(200px, 1fr));
+    gap: 15px;
+    margin-top: 25px;
+  }
+  .portfolio-feed-gallery img {
+    width: 100%;
+    height: 150px; /* Ajusta la altura de la miniatura aquí */
+    object-fit: cover;
+    border-radius: 4px;
+    transition: transform 0.2s;
+  }
+  .portfolio-feed-gallery img:hover {
+    transform: scale(1.05);
+  }
+</style>
 
-{% for post in site.portfolio %}
-  {% include archive-single.html %}
+{% comment %}
+  Bucle para iterar a través de todos los proyectos en la colección _portfolio
+{% endcomment %}
+{% for project in site.portfolio %}
+  <div class="portfolio-feed-item">
+    
+    <h2>{{ project.title }}</h2>
+    
+    <div class="project-content">
+      {{ project.content }}
+    </div>
+
+  </div>
 {% endfor %}
-
