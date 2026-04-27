@@ -93,6 +93,7 @@ For more context, here are a few selected links to the public evidence of these 
 * [Dossier Evaluation Exhibition](https://www.facebook.com/permalink.php?story_fbid=pfbid02ByTea8YrRhpbTmxkZWF6zKLJs8YTRHcY6851KNaz3TVCPXRU7nJVvFfgw1dU5HRjl&id=100063924068392){:target="_blank"}
 * [Academic Magazine Exhibition](https://www.facebook.com/photo/?fbid=785389886935140&set=pcb.785392896934839){:target="_blank"}
 * [Integrative Project Evaluations](https://www.facebook.com/photo/?fbid=675506977923432&set=pcb.675515424589254){:target="_blank"}
+* [📄 View Official Participation Certificate](/files/Constancia_jurado_prepa.pdf){:target="_blank"}
 
 Here I show some photos of my participation evaluating student proposals and collaborating with other academic judges:
 
