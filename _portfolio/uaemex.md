@@ -16,8 +16,8 @@ gallery:
   - url: 2023-revista-Allan-evaluando-1.jpg
     image_path: 2023-revista-Allan-evaluando-1.jpg
     alt: "Magazine feature evaluating"
-  - url: 2024_evaluando_2.jpg
-    image_path: 2024_evaluando_2.jpg
+  - url: 2024-evaluando-2.jpg
+    image_path: 2024-evaluando-2.jpg
     alt: "2024 Evaluation session"
   - url: 2024-evaluando-1.jpg
     image_path: 2024-evaluando-1.jpg
