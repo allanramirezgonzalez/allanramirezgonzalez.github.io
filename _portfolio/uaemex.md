@@ -2,7 +2,7 @@
 title: "Participation in the evaluation of integrative projects for the Ixtapaluca Regional High School"
 excerpt: "Evaluator for academic integrative projects at the Preparatoria Regional."
 header:
-  teaser:2024-evaluando-1.jpg
+  teaser: 2024-evaluando-1.jpg
 gallery:
   - url: 2023-Allan-evaluando-2.jpg
     image_path: 2023-Allan-evaluando-2.jpg
@@ -84,7 +84,7 @@ gallery:
   }
 </style>
 
-<img src="/images/2023-jueces-2.jpg" alt="Jury Member Cover" class="portada-galeria">
+<img src="/images/2024-evaluando-1.jpg" alt="Jury Member Cover" class="portada-galeria">
 
 As part of my commitment to educational development, I have had the honor of participating as a jury member in the evaluation of integrative projects for the **Preparatoria Regional (UAEMex)**. These fairs are an excellent space to encourage critical thinking, methodological rigor, and the practical application of knowledge among high school students.
 
