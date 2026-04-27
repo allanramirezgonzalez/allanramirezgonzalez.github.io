@@ -27,7 +27,7 @@ gallery:
     alt: "Cierre de ciclo del programa"
   - url: Coordinadores_UNAM_con_presidente_municipal.jpg
     image_path: Coordinadores_UNAM_con_presidente_municipal.jpg
-    alt: "Reunión de Coordinadores UNAM con Presidente Municipal"
+    alt: "Coordinadores_UNAM_con_presidente_municipal"
   - url: Municipio.jpg
     image_path: Municipio.jpg
     alt: "Municipio de Ixtapaluca"
