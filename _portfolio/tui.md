@@ -7,6 +7,7 @@ gallery:
   - url: Recibiendo_primeros_papeles.jpg
     image_path: Recibiendo_primeros_papeles.jpg
     alt: "Recepción de documentos de estudiantes"
+    title: "TUI recogiendo papeles inicio.<br><a href='https://www.facebook.com/photo?fbid=161156946450087&set=pcb.161157093116739' target='_blank'>Ver evidencia en Facebook</a>"
   - url: Recibiendo_primeros_papeles_2.jpg
     image_path: Recibiendo_primeros_papeles_2.jpg
     alt: "Recepción de documentos 2"
@@ -15,19 +16,21 @@ gallery:
     alt: "Recepción de documentos 3"
   - url: 20220830_044027_revisando.jpg
     image_path: 20220830_044027_revisando.jpg
+    alt: "Revisando logística"
   - url: 27022024_revisando_papeles.jpg
     image_path: 27022024_revisando_papeles.jpg
     alt: "Trabajo administrativo de coordinación"
+    title: "Revisando documentos, 27 de febrero 2024.<br><a href='https://www.facebook.com/photo/?fbid=424711866899017&set=pcb.424711940232343' target='_blank'>Ver evidencia en Facebook</a>"
   - url: 20221207163610_coordinado_regreso_tarde.jpg
     image_path: 20221207163610_coordinado_regreso_tarde.jpg
     alt: "Coordinación de regreso"
-    alt: "Revisando logística"
   - url: 20220831_044139_revisando.jpg
     image_path: 20220831_044139_revisando.jpg
     alt: "Revisando logística 2"
   - url: Cierre_primer_ciclo_programa.jpg
     image_path: Cierre_primer_ciclo_programa.jpg
     alt: "Cierre de ciclo del programa"
+    title: "TUI Fin de primer ciclo.<br><a href='https://www.facebook.com/photo/?fbid=3405344059786708&set=pcb.3405344126453368' target='_blank'>Ver evidencia en Facebook</a>"
   - url: Reuniones_reactivacion_2022.jpg
     image_path: Reuniones_reactivacion_2022.jpg
     alt: "Reuniones de reactivación del programa"
@@ -40,6 +43,7 @@ gallery:
   - url: TUI_reunion_segundo_ciclo.jpg
     image_path: TUI_reunion_segundo_ciclo.jpg
     alt: "Reunión de trabajo institucional (TUI)"
+    title: "TUI reunión segundo ciclo.<br><a href='https://www.facebook.com/photo/?fbid=3444522299202217&set=a.1381782652142869' target='_blank'>Ver evidencia en Facebook</a>"
   - url: Coordinadores_UNAM_con_presidente_municipal.jpg
     image_path: Coordinadores_UNAM_con_presidente_municipal.jpg
     alt: "Reunión de Coordinadores UNAM con Presidente Municipal"
@@ -100,6 +104,18 @@ gallery:
     margin: 0;
   }
 
+  /* Estilo de los enlaces de Facebook */
+  .gallery-item figcaption a {
+    color: #1877F2; /* Azul estilo Facebook */
+    text-decoration: none;
+    font-weight: bold;
+    display: inline-block;
+    margin-top: 5px;
+  }
+  .gallery-item figcaption a:hover {
+    text-decoration: underline;
+  }
+
   /* Ajuste para celulares */
   @media (max-width: 600px) {
     .gallery {
@@ -112,7 +128,6 @@ gallery:
 </style>
 
 <img src="/images/23_11_2022_rumbo_a_Ixtapaluca.jpg" alt="Portada Rumbo a Ixtapaluca" class="portada-galeria">
-
 
 Over the past years, I have actively participated in the **Transporte Universitario Ixtapaluquense (TUI)** and served as a coordinator for university outreach programs, including collaborative efforts between students and the municipal goverment.
 
