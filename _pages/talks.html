@@ -1,16 +1,43 @@
 ---
 layout: archive
-title: "Talks and presentations"
+title: "Conferences and Presentations"
 permalink: /talks/
 author_profile: true
 ---
 
-{% if site.talkmap_link == true %}
+Here I present a record of my presentations and participations in academic conferences.
 
-<p style="text-decoration:underline;"><a href="/talkmap.html">See a map of all the places I've given a talk!</a></p>
+<style>
+  .conference-item {
+    margin-bottom: 60px;
+    padding-bottom: 40px;
+    border-bottom: 2px solid #f2f2f2;
+  }
+  .conference-item h2 {
+    margin-bottom: 5px;
+  }
+  .conference-meta {
+    font-size: 0.9em;
+    color: #666;
+    margin-bottom: 20px;
+  }
+  .conference-content {
+    margin-top: 15px;
+  }
+</style>
 
-{% endif %}
-
-{% for post in site.talks reversed %}
-  {% include archive-single-talk.html %}
+{% assign talks_by_date = site.talks | sort: "date" | reverse %}
+{% for talk in talks_by_date %}
+  <div class="conference-item">
+    <h2><a href="{{ talk.url }}">{{ talk.title }}</a></h2>
+    
+    <div class="conference-meta">
+      <strong>{{ talk.date | date: "%B %d, %Y" }}</strong> | <em>{{ talk.venue }}</em>
+      {% if talk.location %}<br>📍 {{ talk.location }}{% endif %}
+    </div>
+    
+    <div class="conference-content">
+      {{ talk.content }}
+    </div>
+  </div>
 {% endfor %}
