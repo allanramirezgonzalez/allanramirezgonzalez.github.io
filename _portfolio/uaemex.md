@@ -97,3 +97,9 @@ For more context, here are a few selected links to the public evidence of these 
 Here I show some photos of my participation evaluating student proposals and collaborating with other academic judges:
 
 {% include gallery caption="Gallery: Evaluating academic projects at UAEMex." %}
+
+<br>
+<hr>
+<p style="font-size: 0.85em; color: #777; text-align: justify; margin-top: 15px;">
+  <em><strong>Privacy Disclaimer:</strong> Out of respect for personal privacy, faces in my private photographs have been blurred. However, faces in photographs that were previously published on public platforms (such as the official institutional pages of the Preparatoria and TUI) remain unblurred. If you appear in any of these images and feel uncomfortable or wish for your picture to be removed/blurred, please feel free to contact me, and I will promptly take it down.</em>
+</p>
