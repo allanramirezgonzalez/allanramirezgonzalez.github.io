@@ -4,9 +4,6 @@ excerpt: "Coordinación y participación en el programa de transporte y vinculac
 header:
   teaser: 23_11_2022_rumbo_a_Ixtapaluca.jpg
 gallery:
-  - url: 23_11_2022_rumbo_a_Ixtapaluca.jpg
-    image_path: 23_11_2022_rumbo_a_Ixtapaluca.jpg
-    alt: "Rumbo a Ixtapaluca - Transporte Universitario TUI"
   - url: 06082024_salida_luciernagas_1.jpg
     image_path: 06082024_salida_luciernagas_1.jpg
     alt: "Salida comunitaria"
@@ -54,47 +51,54 @@ gallery:
     alt: "Reunión de trabajo institucional (TUI)"
 ---
 
-{% comment %}
-{% endcomment %}
 <style>
-  /* Fuerza el contenedor a usar flexbox justified */
+  /* Diseño de la Portada Gigante */
+  .portada-galeria {
+    width: 100%;
+    height: 400px;
+    object-fit: cover;
+    border-radius: 8px;
+    margin-bottom: 25px;
+    box-shadow: 0 4px 8px rgba(0,0,0,0.1);
+  }
+
+  /* Forzamos imágenes mucho más GRANDES (Máximo 2 columnas) */
   .gallery {
-    display: flex !important;
-    flex-wrap: wrap !important;
-    gap: 2px !important; /* Espacio mínimo de 2px entre fotos */
+    display: grid !important;
+    grid-template-columns: repeat(auto-fill, minmax(350px, 1fr)) !important; /* Fuerza a que cada foto mida al menos 350px de ancho */
+    gap: 8px !important; 
+    margin-top: 30px !important;
     padding: 0 !important;
-    margin: 30px 0 !important;
   }
   
-  /* Elimina estilos antiguos del tema que separan las fotos */
   .gallery-item {
     margin: 0 !important;
     padding: 0 !important;
-    border: none !important;
-    flex-grow: 1 !important; /* Clave del collage: las fotos crecen para llenar la fila */
+    max-width: 100% !important; /* Cancela el límite de la plantilla */
+    width: 100% !important;
   }
   
-  /* Fuerza a las imágenes a estirarse, pegarse y tener altura uniforme por fila */
   .gallery img {
-    width: auto !important; /* Importante para que Flexbox calcule */
-    max-width: 100% !important;
-    height: 280px !important; /* Altura uniforme de las filas. Ajústalo si las quieres más grandes/pequeñas */
-    object-fit: cover !important; /* Recorta automáticamente para rellenar sin deformar */
-    border-radius: 0 !important; /* Sin bordes redondeados para que se peguen */
+    width: 100% !important;
+    height: 320px !important; /* Fotos mucho más altas */
+    object-fit: cover !important; 
+    border-radius: 4px !important;
   }
-  
-  /* Ajuste para pantallas pequeñas */
+
+  /* Ajuste para celulares (1 sola columna gigante) */
   @media (max-width: 600px) {
-    .gallery img {
-      height: 180px !important;
+    .gallery {
+      grid-template-columns: 1fr !important;
+    }
+    .portada-galeria {
+      height: 250px;
     }
   }
 </style>
 
+<img src="/images/23_11_2022_rumbo_a_Ixtapaluca.jpg" alt="Portada Rumbo a Ixtapaluca" class="portada-galeria">
+
+
 Over the past years, I have actively participated in the **Transporte Universitario Ixtapaluquense (TUI)** and served as a coordinator for university outreach programs, including collaborative efforts between students and municipal governments.
-
-These roles have allowed me to foster constructive dialogue, ensure due process, and lead teams in organizing and evaluating projects that bridge the gap between academia and society. 
-
-Below is a visual registry of these activities, reflecting the teamwork, fieldwork, and institutional coordination involved:
 
 {% include gallery caption="Galería: Voluntariado, Trabajo Institucional TUI y Coordinación Comunitaria en Ixtapaluca." %}
