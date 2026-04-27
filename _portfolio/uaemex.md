@@ -83,8 +83,17 @@ gallery:
 
 <img src="/images/2024-evaluando-1.jpg" alt="Jury Member Cover" class="portada-galeria">
 
-As part of my commitment to educational development, I have had the honor of participating as a jury member in the evaluation of integrative projects for the **Preparatoria Regional (UAEMex)**. These fairs are an excellent space to encourage critical thinking, methodological rigor, and the practical application of knowledge among high school students.
+As part of my commitment to educational development, I had the honor of participating as a jury member in the evaluation of integrative projects for the **Preparatoria Regional de Ixtapaluca (Clave 13)**. 
 
-Below is a visual record of my participation evaluating student proposals and collaborating with other academic judges:
+Throughout the *Dossier* and *Revista Académica* cycles, my main contributions included:
+* Providing guidance and constructive feedback to high school students to strengthen their academic training and the development of their research products.
+* Applying institutional rubrics to grade the integration of competencies and the quality of student research.
 
-{% include gallery caption="Gallery: Evaluating academic projects at Ixtapaluca Regional High School, UAEMex." %}
+For more context, here are a few selected links to the public evidence of these academic fairs:
+* [Dossier Evaluation Exhibition](https://www.facebook.com/permalink.php?story_fbid=pfbid02ByTea8YrRhpbTmxkZWF6zKLJs8YTRHcY6851KNaz3TVCPXRU7nJVvFfgw1dU5HRjl&id=100063924068392){:target="_blank"}
+* [Academic Magazine Exhibition](https://www.facebook.com/photo/?fbid=785389886935140&set=pcb.785392896934839){:target="_blank"}
+* [Integrative Project Evaluations](https://www.facebook.com/photo/?fbid=675506977923432&set=pcb.675515424589254){:target="_blank"}
+
+Here I show some photos of my participation evaluating student proposals and collaborating with other academic judges:
+
+{% include gallery caption="Gallery: Evaluating academic projects at UAEMex." %}
