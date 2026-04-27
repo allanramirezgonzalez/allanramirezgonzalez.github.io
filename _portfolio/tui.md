@@ -2,7 +2,7 @@
 title: "Institutional Work & Community Outreach"
 excerpt: "Participation in the University Tribunal (TUI) and coordination of community development programs."
 header:
-  teaser: /images/TUI_reunion_segundo_ciclo.jpg
+  teaser: /images/23_11_2022_rumbo_a_Ixtapaluca.jpg
 gallery:
   - url: /images/23_11_2022_rumbo_a_Ixtapaluca.jpg
     image_path: /images/23_11_2022_rumbo_a_Ixtapaluca.jpg
