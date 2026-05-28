@@ -11,11 +11,9 @@ redirect_from:
 
 ### 🇲🇽 Versión en Español
 * **[CV Académico (Resumen)](/files/Cv_academico_esp_abril_2026.pdf)**
-* **[CV Largo (Trayectoria Completa)](/files/Cv_largo_esp_abril_2026.pdf)**
 
 ### 🇺🇸 English Version
 * **[Academic CV (Resume)](/files/Cv_academico_ingles_abril_2026.pdf)**
-* **[CV (Full Trajectory)](/files/Cv_largo_ingles_abril_2026.pdf)**
 
 --- 
 
@@ -26,7 +24,7 @@ redirect_from:
   * Junio 2025, Ciudad de México / June 2025, Mexico City
 
 ## Experiencia en Investigación / Research Experience
-* **Investigador Junior / Junior Researcher**
+* **Investigador Asistente / Research Assistant**
   * Programa Universitario de Estudios del Desarrollo (PUED) - UNAM
   * *Febrero 2024 - Presente* / February 2024 - Present
 
